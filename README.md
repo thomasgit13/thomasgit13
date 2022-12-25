@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Thomaskutty Reji
+- 👀 I’m interested in Data Science,Machine Learning,Mathematics,Programming,Philosphy and Music. 
+- 🌱 I’m currently learning java,Deep Learning using PyTorch
+- 💞️ I’m looking to collaborate on Data Science Projects
+- 📫 How to reach me ...thomasreji.kutty@gmail.com 
+- 💻 I help Commercial and Retail banking teams in decision making.
+- 💪 Built many machine learning models which is in production(using by bank campaign teams)
