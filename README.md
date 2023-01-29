@@ -7,7 +7,6 @@
 	<img src="https://img.shields.io/badge/Philosophy-red.svg?style=flat">
 	<img src="https://img.shields.io/badge/Music-yellow.svg?style=flat">
 
--    `Data Science`,`Machine Learning`,`Mathematics`,`Programming`,`Philosphy` and `Music`. 
 - 🌱 I’m currently learning java,Deep Learning using PyTorch
 - 👀 I’m interested in Data Science,Machine Learning,Mathematics,Programming,Philosphy and Music. 
 - 🌱 I’m currently learning Deep Learning(PyTorch)
