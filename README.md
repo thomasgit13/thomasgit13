@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thomaskutty Reji
-- 👀 I’m interested in Data Science,Machine Learning,Mathematics,Programming,Philosphy and Music. 
+- 👀 I’m interested in `Data Science`,`Machine Learning`,`Mathematics`,`Programming`,`Philosphy` and `Music`. 
 - 🌱 I’m currently learning java,Deep Learning using PyTorch
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me ...thomasreji.kutty@gmail.com 
