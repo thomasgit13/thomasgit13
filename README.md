@@ -6,9 +6,5 @@
 	<img src="https://img.shields.io/badge/Programming-orange.svg?style=flat">
 	<img src="https://img.shields.io/badge/Philosophy-red.svg?style=flat">
 	<img src="https://img.shields.io/badge/Music-yellow.svg?style=flat">
-
-- 🌱 I’m currently learning java,Deep Learning using PyTorch
-- 👀 I’m interested in Data Science,Machine Learning,Mathematics,Programming,Philosphy and Music. 
-- 🌱 I’m currently learning Deep Learning(PyTorch)
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 🌱 I’m currently learning PyTorch,MlOps,MlFlow
 - 📫 How to reach me thomasreji.kutty@gmail.com 
